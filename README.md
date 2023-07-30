@@ -4,9 +4,7 @@ LabVIEW library to color pipes (Boolean indicators) based on one or more express
 
 ## Getting Started
 
-Download the Pipes.
-
-Run the `/Pipes Example.vi` to demostrate how to configure and update the pipe colors (Boolean indicators). Toggle the valves and mass flow controller (MFC) value to see the pipe colors change accordingly.
+Clone the repository and run the `/Pipes Example.vi` to demostrate how to configure and update the pipe colors (Boolean indicators). Toggle the valves and mass flow controller (MFC) value to see the pipe colors change accordingly.
 
 ![Example](/Images/Example.png)
 
