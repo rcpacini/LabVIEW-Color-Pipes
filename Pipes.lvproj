@@ -19,20 +19,20 @@
 			</Item>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
-			<Item Name="LabVIEW_Color_Pipes" Type="Packed Library">
+			<Item Name="LabVIEW-Color-Pipes" Type="Packed Library">
 				<Property Name="Bld_autoIncrement" Type="Bool">true</Property>
 				<Property Name="Bld_buildCacheID" Type="Str">{9FA19F63-EF77-4AA8-831F-50880D83DD4C}</Property>
-				<Property Name="Bld_buildSpecName" Type="Str">LabVIEW_Color_Pipes</Property>
+				<Property Name="Bld_buildSpecName" Type="Str">LabVIEW-Color-Pipes</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
 				<Property Name="Bld_localDestDir" Type="Path">../builds</Property>
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{E7ECAC7A-279A-4A32-9C90-CD9F557327C8}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
-				<Property Name="Destination[0].destName" Type="Str">LabVIEW_Color_Pipes.lvlibp</Property>
-				<Property Name="Destination[0].path" Type="Path">../builds/LabVIEW_Color_Pipes.lvlibp</Property>
+				<Property Name="Destination[0].destName" Type="Str">LabVIEW-Color-Pipes.lvlibp</Property>
+				<Property Name="Destination[0].path" Type="Path">../builds/LabVIEW-Color-Pipes.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
@@ -41,7 +41,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{AEC461C0-6B72-495D-82A4-5A8EAEADF6DE}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{4737C65A-CEA9-4C51-94A1-A09968BBDC4D}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Pipes.lvlib</Property>
@@ -54,12 +54,12 @@
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_companyName" Type="Str">Ryan Pacini</Property>
 				<Property Name="TgtF_enableDebugging" Type="Bool">true</Property>
-				<Property Name="TgtF_fileDescription" Type="Str">LabVIEW_Color_Pipes</Property>
-				<Property Name="TgtF_internalName" Type="Str">LabVIEW_Color_Pipes</Property>
+				<Property Name="TgtF_fileDescription" Type="Str">LabVIEW-Color-Pipes</Property>
+				<Property Name="TgtF_internalName" Type="Str">LabVIEW-Color-Pipes</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2023 Ryan Pacini</Property>
-				<Property Name="TgtF_productName" Type="Str">LabVIEW_Color_Pipes</Property>
+				<Property Name="TgtF_productName" Type="Str">LabVIEW-Color-Pipes</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{F6085A53-54F9-42DF-A270-E0F98330FEB4}</Property>
-				<Property Name="TgtF_targetfileName" Type="Str">LabVIEW_Color_Pipes.lvlibp</Property>
+				<Property Name="TgtF_targetfileName" Type="Str">LabVIEW-Color-Pipes.lvlibp</Property>
 				<Property Name="TgtF_versionIndependent" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Pipes Example" Type="EXE">
@@ -79,7 +79,7 @@
 				<Property Name="Bld_previewCacheID" Type="Str">{52205B04-94DF-4BF6-BD9E-759DF67BF037}</Property>
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">1</Property>
-				<Property Name="Bld_version.build" Type="Int">1</Property>
+				<Property Name="Bld_version.build" Type="Int">2</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Pipes Example.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Pipes Example/Pipes Example.exe</Property>
