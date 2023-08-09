@@ -11,8 +11,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Pipes Example.vi" Type="VI" URL="../Pipes Example.vi"/>
-		<Item Name="Pipes.lvlib" Type="Library" URL="../Pipes.lvlib"/>
+		<Item Name="Examples" Type="Folder">
+			<Item Name="Pipes Example.vi" Type="VI" URL="../Examples/Pipes Example.vi"/>
+		</Item>
+		<Item Name="Pipes.lvlib" Type="Library" URL="../Pipes/Pipes.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
@@ -29,7 +31,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{E7ECAC7A-279A-4A32-9C90-CD9F557327C8}</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">6</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">LabVIEW-Color-Pipes.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/LabVIEW-Color-Pipes.lvlibp</Property>
@@ -79,7 +81,7 @@
 				<Property Name="Bld_previewCacheID" Type="Str">{52205B04-94DF-4BF6-BD9E-759DF67BF037}</Property>
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">1</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">4</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Pipes Example.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Pipes Example/Pipes Example.exe</Property>
@@ -93,7 +95,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{9B067599-C266-452A-8EA1-4948E15C3235}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Pipes Example.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Examples/Pipes Example.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
