@@ -31,7 +31,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{E7ECAC7A-279A-4A32-9C90-CD9F557327C8}</Property>
-				<Property Name="Bld_version.build" Type="Int">6</Property>
+				<Property Name="Bld_version.build" Type="Int">7</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">LabVIEW-Color-Pipes.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/LabVIEW-Color-Pipes.lvlibp</Property>
@@ -81,7 +81,7 @@
 				<Property Name="Bld_previewCacheID" Type="Str">{52205B04-94DF-4BF6-BD9E-759DF67BF037}</Property>
 				<Property Name="Bld_supportedLanguage[0]" Type="Str">English</Property>
 				<Property Name="Bld_supportedLanguageCount" Type="Int">1</Property>
-				<Property Name="Bld_version.build" Type="Int">4</Property>
+				<Property Name="Bld_version.build" Type="Int">5</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Pipes Example.exe</Property>
 				<Property Name="Destination[0].path" Type="Path">../builds/Pipes Example/Pipes Example.exe</Property>
